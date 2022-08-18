@@ -1,2 +1,2 @@
 # hello-world
-first assignment
+first assignment for software construction class
